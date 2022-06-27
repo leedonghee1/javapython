@@ -1,0 +1,9 @@
+def doB(a):
+    return -a
+
+result = doB()
+
+print(result)
+
+
+

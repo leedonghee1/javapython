@@ -1,0 +1,9 @@
+from MHH import doA
+
+doA("하이")
+
+
+
+
+
+
